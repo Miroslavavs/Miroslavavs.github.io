@@ -5,6 +5,10 @@ table {
      border-collapse: collapse;
    }
 
+thead{
+background-color: #008000;
+}
+
   #paquito {
   background-color: #ff6bb3 ; 
     border: 1px solid yellow;
@@ -18,6 +22,3 @@ table {
   .low {
    color:red;
   }
-thead{
-background-color: #008000;
-}

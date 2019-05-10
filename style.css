@@ -1,6 +1,4 @@
-thead{
-background-color: #008000;
-}
+
 
 table {
       border: 1px solid red;
@@ -20,3 +18,6 @@ table {
   .low {
    color:red;
   }
+thead{
+background-color: #008000;
+}

@@ -8,6 +8,6 @@ thead {
 background-color:#cce6f;
 }
 
-tr:nth-child(odd){
+tr:nth-child(odd) {
 background-color:#ddff9;   
 }

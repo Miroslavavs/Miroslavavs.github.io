@@ -1,13 +1,10 @@
-
 table {
      border: 1px solid black;
     border-collapse: collapse;
   }
-
 thead {
-background-color:#cce6f;
+background-color:cce6ff;
 }
-
-tbody > tr:nth-child(odd) {
-background-color:#ddff9;   
+tbody>tr:nth-child(odd) {
+background-color: #ddff99;
 }
